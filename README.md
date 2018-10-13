@@ -1,5 +1,7 @@
 # Magento 2 Docker
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/docker-magento2-1.svg)](https://www.guardrails.io)
+
 [![Build Status][ico-travis]][link-travis]
 [![Docker Build Status][ico-dockerbuild]][link-dockerhub]
 [![Docker Pulls][ico-downloads]][link-dockerhub]
